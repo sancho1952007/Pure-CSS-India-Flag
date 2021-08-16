@@ -1,0 +1,48 @@
+.orange{
+    width: 400px;
+    height: 100px;
+    background-color: orange;
+    border: 1px solid black;
+}
+
+.green{
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    border: 1px solid black;
+}
+
+.white{
+    width: 400px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.mid{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.flag{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sub{
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: monospace;
+    font-size: 20px;
+}
+
+img{
+    pointer-events: none;
+}
